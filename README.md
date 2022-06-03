@@ -12,7 +12,7 @@ A weather dashboard with city name inputs that will run in the browser
 <https://jeongholee21.github.io/weather-dashboard/>
 
 # ScreenShot
-![Screenshot]()
+![Screenshot](https://github.com/Jeongholee21/weather-dashboard/blob/main/assets/js/Weather%20Screen%20Shot.jpg)
 
 ## User Story
 ```
