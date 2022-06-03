@@ -9,6 +9,10 @@ A weather dashboard with city name inputs that will run in the browser
 </br>
 
 # Live Website
+<https://jeongholee21.github.io/weather-dashboard/>
+
+# ScreenShot
+![Screenshot]()
 
 ## User Story
 ```
